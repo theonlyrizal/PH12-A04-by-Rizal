@@ -18,5 +18,3 @@ function resultReport(marks) {
     return object;
   }
 }
-
-console.log(resultReport([-546]));
